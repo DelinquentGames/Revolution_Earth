@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.22
+# URL: http://www.unwrap3d.com
+# Time: Thu Apr 29 19:04:54 2010
+# num_materials: 2
+
+newmtl yuka_bark
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd yuka_bark.dds
+
+newmtl yuka
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd yuka.dds
+
+# num_materials: 2

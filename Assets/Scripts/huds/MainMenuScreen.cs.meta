@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 206d61e371c8103479d3d57d0cf94e3b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menuBackground: {fileID: 2800000, guid: 24ee4bad444d9ed45b47ad35dd22dc0f, type: 3}
+  - windowBackground: {fileID: 2800000, guid: b3e58a199a5c9424eb18796031520867, type: 3}
+  - playGame: {fileID: 2800000, guid: cbaeec6b2c116184490f87107f923b5d, type: 3}
+  - playGameOver: {fileID: 2800000, guid: ea05263df86284749ba9afc4f1a417a3, type: 3}
+  - resume: {fileID: 2800000, guid: 5d89062a78065534cb9bba84ba527740, type: 3}
+  - resumeOver: {fileID: 2800000, guid: efd08645be065a043b04132e6e2376c4, type: 3}
+  - character: {fileID: 2800000, guid: adac5111645a9e64f95da5b775be4f5d, type: 3}
+  - characterOver: {fileID: 2800000, guid: 43cad86b147c3b04e83ca3bc61624a51, type: 3}
+  - equipment: {fileID: 2800000, guid: 5ad71019aaff43e428d9d5d4b0c8b83c, type: 3}
+  - equipmentOver: {fileID: 2800000, guid: fe18f9c3db540a543a6f193ccaba1bff, type: 3}
+  - inventory: {fileID: 2800000, guid: 1d0eaf115d54d7c4e8ee724f8a422f9d, type: 3}
+  - inventoryOver: {fileID: 2800000, guid: bbd0ddc5b72f14045bd3a66ec5feca9b, type: 3}
+  - options: {fileID: 2800000, guid: 58aae00f201dcaa45a1179b2a4c54fb6, type: 3}
+  - optionsOver: {fileID: 2800000, guid: 65b92c842636e8a479ac9d471de8c0d3, type: 3}
+  - about: {fileID: 2800000, guid: 280cce708cecfed4db9d66612b3739a7, type: 3}
+  - aboutOver: {fileID: 2800000, guid: 5561eec885fde154ab9829b4792193bd, type: 3}
+  - exit: {fileID: 2800000, guid: da820468fcb605e41ab379a5f82953ca, type: 3}
+  - exitOver: {fileID: 2800000, guid: b2bb7ce3518002441b8161b789f046b8, type: 3}
+  - hudSkin: {fileID: 11400000, guid: 2ebbe98b44999cc48b5203f77282f8ec, type: 2}
+  - receiveDamageOn: {instanceID: 0}
+  - receiveDamageOff: {instanceID: 0}
+  - dontReceiveDamageOn: {instanceID: 0}
+  - dontReceiveDamageOff: {instanceID: 0}
+  - black: {fileID: 2800000, guid: 0d46b4406ddd7174990f17384810cac8, type: 3}
+  - greenBar: {fileID: 2800000, guid: 6093040fbe29f774ba9fe1d926137824, type: 3}
+  - checkOn: {fileID: 2800000, guid: 4e88ed9f940c2894d9171aa8c7a55ba5, type: 3}
+  - checkOff: {fileID: 2800000, guid: 6a649c34a5e694149904a8abb27aa0b6, type: 3}
+  - whiteMarker: {fileID: 2800000, guid: 7f66ba90704b95744b14955ea00a5719, type: 3}
+  - overSound: {fileID: 8300000, guid: 953a34b824ae91f4383a65b802b09160, type: 3}
+  - clickSound: {fileID: 8300000, guid: 5261cb8f783799f43af5c914aa30ca21, type: 3}
+  - loadingBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

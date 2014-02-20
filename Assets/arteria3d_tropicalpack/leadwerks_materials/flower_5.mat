@@ -1,0 +1,6 @@
+texture0="abstract::flower_5.dds"
+bumpscale=0.3
+cullface=0
+shader="abstract::mesh_diffuse_bumpmap_sway.vert","abstract::mesh_diffuse_bumpmap_specular_alphatest.frag"
+shadowshader="abstract::mesh_shadow_sway.vert","abstract::mesh_shadow.frag"
+

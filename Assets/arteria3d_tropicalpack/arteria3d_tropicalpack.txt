@@ -1,0 +1,28 @@
+Thankyou for purchasing the Arteria3d Tropical Pack.
+
+This pack contains lots of different plants, flowers and trees to use to recreate
+a beautiful tropical environment for your games, simulations or movies.
+
+There are many formats in the pack.  Please note, the leadwerks materials folder is used
+via the GMF leadwerks game engine format and is not required by any other format in the pack.
+
+Scale wise, its always difficult due to the varying formats and each game engines own
+scaling method.  Therefore i have provided game formats such as b3d, dae, fbx in a scaling
+form that seems relative to many engines.
+
+Torque dts format is scaled correctly for that particular game engine, as is the leadwerks
+GMF format. 
+
+I have provided 2 scale versions of the OBJ format, which suits many of the game engines
+and applications used. 
+OBJ(scaled) is the smaller of the scales exported for this format.
+
+I hope that hasnt confused you!..
+
+I hope you enjoy using the pack and you are always welcome to send your pics to us
+of your project usage of the pack.
+
+Enjoy
+
+Steve.. arteria3d project visionary
+

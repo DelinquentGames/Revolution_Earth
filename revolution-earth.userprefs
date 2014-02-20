@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\UI\UILabel.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GUIMainMenu.cs" Line="57" Column="7" />
+      <File FileName="Assets\Scripts\misc\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCharacterScripts\CharacterCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCharacterScripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoldierScripts\SoldierController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoldierScripts\SoldierTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\HeightfieldPack\GUI\GUI Scripts\OptionsButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\huds\GUIOptimizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Scripts\EnemyGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCharacterScripts\CharacterCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCharacterScripts\FootstepsRightfoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCharacterScripts\FootstepsLeftfoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\huds\GameQualitySettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\huds\FPS.cs" Line="1" Column="1" />
+      <File FileName="Assets\HeightfieldPack\GUI\GUI Scripts\ResumeButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Options\TerrainGrassDistanceScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Options\TerrainGrassDistanceInitialization.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Options\TerrainGrassDensityScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Items\ItemGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character Generator\Scripts\CharacterGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\HeightfieldPack\GUI\GUI Scripts\LoadSkills.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroScreen\ContinueScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Internal\UIWidget.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Tweening\TweenAlpha.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\ReadMe - 3.4.9.txt" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UILabel.cs" Line="1611" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

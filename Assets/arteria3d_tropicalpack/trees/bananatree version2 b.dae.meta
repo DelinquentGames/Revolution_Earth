@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 9b7d671a983f68e41bd01c4ed93d518d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bananatree_3_Group60_Form31
+    100004: bananatree_3_Group60_Form34
+    100006: bananatree_3_Group60_Form38
+    100008: bananatree_3_Group60_Group7_Shape0
+    100010: bananatree_3_Group60_Shape0
+    100012: bananatree_3_Group7_Form31
+    400000: //RootNode
+    400002: bananatree_3_Group60_Form31
+    400004: bananatree_3_Group60_Form34
+    400006: bananatree_3_Group60_Form38
+    400008: bananatree_3_Group60_Group7_Shape0
+    400010: bananatree_3_Group60_Shape0
+    400012: bananatree_3_Group7_Form31
+    2300000: bananatree_3_Group60_Form31
+    2300002: bananatree_3_Group60_Form34
+    2300004: bananatree_3_Group60_Form38
+    2300006: bananatree_3_Group60_Group7_Shape0
+    2300008: bananatree_3_Group60_Shape0
+    2300010: bananatree_3_Group7_Form31
+    3300000: bananatree_3_Group60_Form31
+    3300002: bananatree_3_Group60_Form34
+    3300004: bananatree_3_Group60_Form38
+    3300006: bananatree_3_Group60_Group7_Shape0
+    3300008: bananatree_3_Group60_Shape0
+    3300010: bananatree_3_Group7_Form31
+    4300000: bananatree_3_Group7_Form31
+    4300002: bananatree_3_Group60_Form31
+    4300004: bananatree_3_Group60_Group7_Shape0
+    4300006: bananatree_3_Group60_Shape0
+    4300008: bananatree_3_Group60_Form34
+    4300010: bananatree_3_Group60_Form38
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

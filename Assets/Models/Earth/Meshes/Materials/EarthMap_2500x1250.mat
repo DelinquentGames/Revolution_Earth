@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EarthMap_2500x1250
+  m_Shader: {fileID: 4800000, guid: e912ff08a5ff5bb44b89944026798cde, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 88bd80f0f89084b4581358abd9695008, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Mask
+        second:
+          m_Texture: {fileID: 2800000, guid: 15702743903940b488507256c4c64a0b, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Normals
+        second:
+          m_Texture: {fileID: 2800000, guid: 4600d166fe95b8241a695423f22597b1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Lights
+        second:
+          m_Texture: {fileID: 2800000, guid: 919916ff1a67b4a4399148a9e6dab40f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Clouds
+        second:
+          m_Texture: {fileID: 2800000, guid: 4999d4328bc6d0e40aa759f1316b38c7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Roughness
+        second: -.579999983
+      data:
+        first:
+          name: _TimeScale
+        second: -.000500000024
+      data:
+        first:
+          name: _AtmosFalloff
+        second: 5.63000011
+      data:
+        first:
+          name: _LightScale
+        second: .829999983
+      data:
+        first:
+          name: _CloudHeight
+        second: -.0692307726
+      data:
+        first:
+          name: _AnsioCloudPower
+        second: .100000001
+      data:
+        first:
+          name: _EdgeLength
+        second: 50
+      data:
+        first:
+          name: _Smoothness
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _EditorTime
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _AtmosNear
+        second: {r: .521568716, g: .823529422, b: .894117713, a: 1}
+      data:
+        first:
+          name: _AtmosFar
+        second: {r: .258823514, g: .317647099, b: .63529408, a: 1}
+      data:
+        first:
+          name: _ColorSpec
+        second: {r: .640408754, g: .698880851, b: .757352948, a: 1}

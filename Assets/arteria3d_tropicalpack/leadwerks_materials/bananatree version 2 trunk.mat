@@ -1,0 +1,2 @@
+texture0="abstract::bananatree version 2 trunk.dds"
+shader="abstract::mesh_diffuse.vert","abstract::mesh_diffuse.frag"

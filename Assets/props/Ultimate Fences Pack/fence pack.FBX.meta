@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: f7c67e70c1feca64ea8ac02a2abf9e86
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Car park fence
+    100002: Car park fence green
+    100004: chicken wire
+    100006: chicken wire END
+    100008: chicken wire END green
+    100010: chicken wire green
+    100012: chicken wire small
+    100014: chicken wire small END
+    100016: chicken wire small END green
+    100018: chicken wire small green
+    100020: chickenwire + barbed wire
+    100022: chickenwire + barbed wire END
+    100024: chickenwire + barbed wire END green
+    100026: chickenwire + barbed wire green
+    100028: //RootNode
+    100030: log fence
+    100032: low wall1
+    100034: low wall2
+    100036: metal fence
+    100038: metallic fence 1
+    100040: metallic fence 1 END
+    100042: metallic fence 1 LP
+    100044: metallic fence 1 LP END
+    100046: metallic fence 2
+    100048: metallic fence 2 END
+    100050: metallic fence 2 LP
+    100052: metallic fence 2 LP END
+    100054: Old Wood Fence
+    100056: Old Wood Fence Low poly
+    100058: wood fence 1
+    100060: wood fence 1 broken
+    100062: wood fence 1 END
+    100064: wood fence 1v3
+    100066: wood fence 1v3 END
+    100068: Wood Fence 2
+    100070: Wood Fence 2 broken
+    100072: Wood Fence 3
+    100074: Wood Fence 3 END
+    100076: wood fence 4
+    100078: wood fence 4 END
+    100080: wood fence 4 new
+    100082: wood fence 4 new END
+    100084: wood fence 4 white
+    100086: wood fence 4 white END
+    100088: wood fence1v2
+    100090: wood fence1v2 END
+    400000: Car park fence
+    400002: Car park fence green
+    400004: chicken wire
+    400006: chicken wire END
+    400008: chicken wire END green
+    400010: chicken wire green
+    400012: chicken wire small
+    400014: chicken wire small END
+    400016: chicken wire small END green
+    400018: chicken wire small green
+    400020: chickenwire + barbed wire
+    400022: chickenwire + barbed wire END
+    400024: chickenwire + barbed wire END green
+    400026: chickenwire + barbed wire green
+    400028: //RootNode
+    400030: log fence
+    400032: low wall1
+    400034: low wall2
+    400036: metal fence
+    400038: metallic fence 1
+    400040: metallic fence 1 END
+    400042: metallic fence 1 LP
+    400044: metallic fence 1 LP END
+    400046: metallic fence 2
+    400048: metallic fence 2 END
+    400050: metallic fence 2 LP
+    400052: metallic fence 2 LP END
+    400054: Old Wood Fence
+    400056: Old Wood Fence Low poly
+    400058: wood fence 1
+    400060: wood fence 1 broken
+    400062: wood fence 1 END
+    400064: wood fence 1v3
+    400066: wood fence 1v3 END
+    400068: Wood Fence 2
+    400070: Wood Fence 2 broken
+    400072: Wood Fence 3
+    400074: Wood Fence 3 END
+    400076: wood fence 4
+    400078: wood fence 4 END
+    400080: wood fence 4 new
+    400082: wood fence 4 new END
+    400084: wood fence 4 white
+    400086: wood fence 4 white END
+    400088: wood fence1v2
+    400090: wood fence1v2 END
+    2300000: Car park fence
+    2300002: Car park fence green
+    2300004: chicken wire
+    2300006: chicken wire END
+    2300008: chicken wire END green
+    2300010: chicken wire green
+    2300012: chicken wire small
+    2300014: chicken wire small END
+    2300016: chicken wire small END green
+    2300018: chicken wire small green
+    2300020: chickenwire + barbed wire
+    2300022: chickenwire + barbed wire END
+    2300024: chickenwire + barbed wire END green
+    2300026: chickenwire + barbed wire green
+    2300028: log fence
+    2300030: low wall1
+    2300032: low wall2
+    2300034: metal fence
+    2300036: metallic fence 1
+    2300038: metallic fence 1 END
+    2300040: metallic fence 1 LP
+    2300042: metallic fence 1 LP END
+    2300044: metallic fence 2
+    2300046: metallic fence 2 END
+    2300048: metallic fence 2 LP
+    2300050: metallic fence 2 LP END
+    2300052: Old Wood Fence
+    2300054: Old Wood Fence Low poly
+    2300056: wood fence 1
+    2300058: wood fence 1 broken
+    2300060: wood fence 1 END
+    2300062: wood fence 1v3
+    2300064: wood fence 1v3 END
+    2300066: Wood Fence 2
+    2300068: Wood Fence 2 broken
+    2300070: Wood Fence 3
+    2300072: Wood Fence 3 END
+    2300074: wood fence 4
+    2300076: wood fence 4 END
+    2300078: wood fence 4 new
+    2300080: wood fence 4 new END
+    2300082: wood fence 4 white
+    2300084: wood fence 4 white END
+    2300086: wood fence1v2
+    2300088: wood fence1v2 END
+    3300000: Car park fence
+    3300002: Car park fence green
+    3300004: chicken wire
+    3300006: chicken wire END
+    3300008: chicken wire END green
+    3300010: chicken wire green
+    3300012: chicken wire small
+    3300014: chicken wire small END
+    3300016: chicken wire small END green
+    3300018: chicken wire small green
+    3300020: chickenwire + barbed wire
+    3300022: chickenwire + barbed wire END
+    3300024: chickenwire + barbed wire END green
+    3300026: chickenwire + barbed wire green
+    3300028: log fence
+    3300030: low wall1
+    3300032: low wall2
+    3300034: metal fence
+    3300036: metallic fence 1
+    3300038: metallic fence 1 END
+    3300040: metallic fence 1 LP
+    3300042: metallic fence 1 LP END
+    3300044: metallic fence 2
+    3300046: metallic fence 2 END
+    3300048: metallic fence 2 LP
+    3300050: metallic fence 2 LP END
+    3300052: Old Wood Fence
+    3300054: Old Wood Fence Low poly
+    3300056: wood fence 1
+    3300058: wood fence 1 broken
+    3300060: wood fence 1 END
+    3300062: wood fence 1v3
+    3300064: wood fence 1v3 END
+    3300066: Wood Fence 2
+    3300068: Wood Fence 2 broken
+    3300070: Wood Fence 3
+    3300072: Wood Fence 3 END
+    3300074: wood fence 4
+    3300076: wood fence 4 END
+    3300078: wood fence 4 new
+    3300080: wood fence 4 new END
+    3300082: wood fence 4 white
+    3300084: wood fence 4 white END
+    3300086: wood fence1v2
+    3300088: wood fence1v2 END
+    4300000: chicken wire END
+    4300002: Car park fence
+    4300004: metal fence
+    4300006: Wood Fence 2
+    4300008: chickenwire + barbed wire END
+    4300010: Old Wood Fence
+    4300012: chicken wire small
+    4300014: wood fence 1
+    4300016: wood fence 1 broken
+    4300018: wood fence 1 END
+    4300020: wood fence1v2
+    4300022: wood fence1v2 END
+    4300024: chicken wire
+    4300026: chickenwire + barbed wire
+    4300028: chicken wire small END
+    4300030: Old Wood Fence Low poly
+    4300032: wood fence 1v3
+    4300034: wood fence 1v3 END
+    4300036: Wood Fence 3
+    4300038: Wood Fence 3 END
+    4300040: Wood Fence 2 broken
+    4300042: wood fence 4
+    4300044: wood fence 4 END
+    4300046: wood fence 4 new
+    4300048: wood fence 4 new END
+    4300050: metallic fence 1
+    4300052: metallic fence 2
+    4300054: metallic fence 1 END
+    4300056: metallic fence 2 END
+    4300058: wood fence 4 white
+    4300060: wood fence 4 white END
+    4300062: log fence
+    4300064: metallic fence 1 LP END
+    4300066: metallic fence 2 LP END
+    4300068: metallic fence 2 LP
+    4300070: metallic fence 1 LP
+    4300072: low wall1
+    4300074: low wall2
+    4300076: Car park fence green
+    4300078: chicken wire green
+    4300080: chicken wire END green
+    4300082: chickenwire + barbed wire END green
+    4300084: chickenwire + barbed wire green
+    4300086: chicken wire small green
+    4300088: chicken wire small END green
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

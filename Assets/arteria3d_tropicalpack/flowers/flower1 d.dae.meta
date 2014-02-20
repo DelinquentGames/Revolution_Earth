@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 8cee8fc51deb1074f8a3077dcf0e0b97
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: flower_1d_Form17
+    100004: flower_1d_Group2_Form1
+    100006: flower_1d_Group4_Group2_Form
+    100008: flower_1d_Group4_Group2_Grou
+    100010: flower_1d_Group4_Group2_Shap
+    100012: flower_1d_Group4_Group3_Form
+    100014: flower_1d_Group4_Group3_Form0
+    100016: flower_1d_Group4_Group3_Grou
+    100018: SceneRootU3D
+    400000: //RootNode
+    400002: flower_1d_Form17
+    400004: flower_1d_Group2_Form1
+    400006: flower_1d_Group4_Group2_Form
+    400008: flower_1d_Group4_Group2_Grou
+    400010: flower_1d_Group4_Group2_Shap
+    400012: flower_1d_Group4_Group3_Form
+    400014: flower_1d_Group4_Group3_Form0
+    400016: flower_1d_Group4_Group3_Grou
+    400018: SceneRootU3D
+    2300000: flower_1d_Form17
+    2300002: flower_1d_Group2_Form1
+    2300004: flower_1d_Group4_Group2_Form
+    2300006: flower_1d_Group4_Group2_Grou
+    2300008: flower_1d_Group4_Group2_Shap
+    2300010: flower_1d_Group4_Group3_Form
+    2300012: flower_1d_Group4_Group3_Form0
+    2300014: flower_1d_Group4_Group3_Grou
+    3300000: flower_1d_Form17
+    3300002: flower_1d_Group2_Form1
+    3300004: flower_1d_Group4_Group2_Form
+    3300006: flower_1d_Group4_Group2_Grou
+    3300008: flower_1d_Group4_Group2_Shap
+    3300010: flower_1d_Group4_Group3_Form
+    3300012: flower_1d_Group4_Group3_Form0
+    3300014: flower_1d_Group4_Group3_Grou
+    4300000: flower_1d_Group4_Group2_Shap
+    4300002: flower_1d_Group4_Group2_Grou
+    4300004: flower_1d_Group4_Group2_Form
+    4300006: flower_1d_Group4_Group3_Grou
+    4300008: flower_1d_Group4_Group3_Form0
+    4300010: flower_1d_Group4_Group3_Form
+    4300012: flower_1d_Group2_Form1
+    4300014: flower_1d_Form17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

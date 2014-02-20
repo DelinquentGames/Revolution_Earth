@@ -1,0 +1,3 @@
+texture0="abstract::rock.dds"
+texture1="abstract::rock_NRM.dds"
+shader="abstract::mesh_diffuse_bumpmap.vert","abstract::mesh_diffuse_bumpmap.frag"

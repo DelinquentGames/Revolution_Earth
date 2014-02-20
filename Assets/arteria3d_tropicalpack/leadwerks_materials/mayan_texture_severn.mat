@@ -1,0 +1,2 @@
+texture0="abstract::mayan_texture_severn.dds"
+shader="abstract::mesh_diffuse.vert","abstract::mesh_diffuse.frag"

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400002}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: BulletMark
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1002 &100001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: .0568084978, z: 0, w: -.998385131}
+  m_LocalPosition: {x: -34.4505692, y: -.157134652, z: 64.7082672}
+  m_LocalScale: {x: .150000006, y: .150000006, z: .100000001}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!1002 &400001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb68fd75218437c4aa97b36d92f993a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  affectedObjects: []
+  maxAngle: 90
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  previousUVAngle: 0
+  previousPosition: {x: 0, y: 0, z: 0}
+  previousRotation: {x: 0, y: 0, z: 0, w: 0}
+  previousScale: {x: 0, y: 0, z: 0}
+  previousMaxAngle: 0
+  previousPushDistance: .00899999961
+  previousTiling: {x: 0, y: 0}
+  previousOffset: {x: 0, y: 0}
+  useMeshCollider: 0
+  tiling: {x: 1, y: 1}
+  offset: {x: 0, y: 0}
+  uvAngle: 0
+  decalMaterial: {fileID: 2100000, guid: 377513806888aa5469eee10a76dd8668, type: 2}
+  decalMode: 0
+  bottomPlane: {x: 0, y: 0, z: 0, w: 0}
+  topPlane: {x: 0, y: 0, z: 0, w: 0}
+  leftPlane: {x: 0, y: 0, z: 0, w: 0}
+  rightPlane: {x: 0, y: 0, z: 0, w: 0}
+  frontPlane: {x: 0, y: 0, z: 0, w: 0}
+  backPlane: {x: 0, y: 0, z: 0, w: 0}
+  decalNormal: {x: 0, y: 0, z: 0}
+  decalCenter: {x: 0, y: 0, z: 0}
+  decalTangent: {x: 0, y: 0, z: 0}
+  decalBinormal: {x: 0, y: 0, z: 0}
+  decalSize: {x: 0, y: 0, z: 0}
+  pushDistance: .00200000009
+  checkAutomatically: 0
+  affectedLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  affectOtherDecals: 0
+  affectInactiveRenderers: 0
+  showAffectedObjectsOptions: 0
+  showObjects: 0
+--- !u!1002 &11400001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ac26e4e33d66149925881f2fd16644, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  concrete:
+  - {fileID: 2800000, guid: 82920823d77402b4f9a91f60d91018e2, type: 3}
+  - {fileID: 2800000, guid: a0b962bf2d1f5684884a8adb10d42427, type: 3}
+  - {fileID: 2800000, guid: 7c32f917f9f5bf14b998f5dc0ff376e2, type: 3}
+  wood:
+  - {fileID: 2800000, guid: 1837d976a0c3c48409efc5bd9566d85f, type: 3}
+  - {fileID: 2800000, guid: 134843e1a3c5f814590e7078a1fefd99, type: 3}
+  - {fileID: 2800000, guid: 0d304d9e010b0ea49a5ac7fc2ab9cc79, type: 3}
+  metal:
+  - {fileID: 2800000, guid: 9bb1737f62898c74fa20f91dfb0971dd, type: 3}
+  - {fileID: 2800000, guid: a047d84fa0f703549bfeb01c11c4efcf, type: 3}
+  - {fileID: 2800000, guid: 14042ff2b204d4744971e1413a6ae02d, type: 3}
+  oldMetal:
+  - {fileID: 2800000, guid: 934b00ee1924b7843a5c8afa7c93bacc, type: 3}
+  - {fileID: 2800000, guid: 5c0221a6415fc684fb03f5b5af8b8ebf, type: 3}
+  - {fileID: 2800000, guid: f71be8d00005b7c4b87f0c9723e60a27, type: 3}
+  glass:
+  - {fileID: 2800000, guid: 2750cc4d8d992e847a8e33ce2c52dd26, type: 3}
+  - {fileID: 2800000, guid: 2d593f5d1e757bc4ca2b5c2554a771df, type: 3}
+  - {fileID: 2800000, guid: 0fd94b577e01785418912bfe07ee3724, type: 3}
+  generic:
+  - {fileID: 2800000, guid: f31c56e6bde0ba441ac687169db03f31, type: 3}
+  - {fileID: 2800000, guid: 35f2b51c2cabf5a4b8a5eeffa38d04d6, type: 3}
+  - {fileID: 2800000, guid: a5dcaa594f993574b93dfce8473fe9c8, type: 3}
+  - {fileID: 2800000, guid: 935c0fc941beaef4bb9fcce86877b9d4, type: 3}
+--- !u!1002 &11400003
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
+--- !u!1002 &100100001
+EditorExtensionImpl:
+  serializedVersion: 6

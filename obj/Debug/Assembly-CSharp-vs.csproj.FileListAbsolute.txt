@@ -1,0 +1,15 @@
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\CloudSystem.Runtime.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\UnityEditor.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\UnityEngine.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Mono.Cecil.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\nunit.framework.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Unity.DataContract.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Documents\RevolutionEarth\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Documents\RevolutionEarth\Temp\bin\Debug\CloudSystem.Runtime.xml
+D:\Documents\RevolutionEarth\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Documents\RevolutionEarth\obj\Debug\Assembly-CSharp.dll
+D:\Documents\RevolutionEarth\obj\Debug\Assembly-CSharp.pdb

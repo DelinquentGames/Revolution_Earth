@@ -1,0 +1,2 @@
+texture0="abstract::ground_palm_bark.dds"
+shader="abstract::mesh_diffuse.vert","abstract::mesh_diffuse.frag"

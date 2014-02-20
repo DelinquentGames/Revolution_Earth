@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.22
+# URL: http://www.unwrap3d.com
+# Time: Thu Apr 29 19:46:14 2010
+# num_materials: 2
+
+newmtl flower_6
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd flower_6.dds
+
+newmtl flower_bark
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd flower_bark.dds
+
+# num_materials: 2
